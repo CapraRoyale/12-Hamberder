@@ -4,7 +4,7 @@ Mak berder. Eet burhder.
 
 ## Usage
 
-[![image](C:\Users\siege\Git Schtuff\12-Node-Express-Handlebars\public\assets\img\Annotation 2019-09-29 123626.png)]()
+[![image](https://github.com/CapraRoyale/12-Hamberder/blob/master/public/assets/img/Annotation%202019-09-29%20123626.png?raw=true)]()
 
 1. Enter burder idea in box.
 
